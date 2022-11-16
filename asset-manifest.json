@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/davids-restaurant/static/css/main.9fb4ecf8.css",
+    "main.js": "/davids-restaurant/static/js/main.a80b32b3.js",
+    "static/media/meal.mp4": "/davids-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/davids-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/aboutus.jpg": "/davids-restaurant/static/media/aboutus.9d43668b0832b50bbaa2.jpg",
+    "static/media/laurels.jpg": "/davids-restaurant/static/media/laurels.837e3ac2333112fe3ed4.jpg",
+    "static/media/chef.jpg": "/davids-restaurant/static/media/chef.87a657fdfc7848277dbf.jpg",
+    "static/media/findus.jpg": "/davids-restaurant/static/media/findus.929e286e1de2bcbf7596.jpg",
+    "static/media/welcome.jpg": "/davids-restaurant/static/media/welcome.09875f190229647ddc33.jpg",
+    "static/media/menu.png": "/davids-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/davids-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/davids-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/davids-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/davids-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/overlaybg.png": "/davids-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/davids.png": "/davids-restaurant/static/media/davids.7d71101afd1b83ce2a60.png",
+    "static/media/logo.png": "/davids-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/davids-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/davids-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/davids-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/davids-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/davids-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/davids-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/davids-restaurant/index.html",
+    "main.9fb4ecf8.css.map": "/davids-restaurant/static/css/main.9fb4ecf8.css.map",
+    "main.a80b32b3.js.map": "/davids-restaurant/static/js/main.a80b32b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb4ecf8.css",
+    "static/js/main.a80b32b3.js"
+  ]
+}
